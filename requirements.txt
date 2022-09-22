@@ -1,0 +1,10 @@
+pytest
+pytest-cov
+instagram-private-api
+random-poem
+Pillow
+instabot
+instagrapi
+bs4
+lxml
+pywebview
